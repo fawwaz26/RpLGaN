@@ -55,7 +55,8 @@ klien menemukan partner untuk bekerja sama.</p>
 //wkwkwk
 
 ## GanttChart
-//loh?
+![wkwkwkwkwl](https://user-images.githubusercontent.com/48622568/82087851-1aeef300-971b-11ea-874b-78a797516310.JPG)
+
 
 ## Entity Relationshit Diagram
 //loh?
