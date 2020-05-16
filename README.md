@@ -30,7 +30,26 @@ sarana untuk menghasilkan pendapatan.</p>
 yang dibutuhkan.</p>
 
 ## Ruang Lingkup
-<p>yang pasti galuas</p>
+Perangkat keras:
+  <ul>
+    <li> Prosesor : ? </li>
+    <li> Memori : ? </li>
+    <li> Graphic card : ? </li>
+    <li> Storage : </li>
+  </ul>
+Perangkat lunak:
+  <ul>
+    <li> Framework/Stack : ?</li>
+    <li> Database : MySQL </li>
+    <li> Server : Apache </li>
+    <li> Text Editor/IDE : Visual Studio </li>
+  </ul>
+Lainnya:
+  <ul>
+     <li> Development time : 4 bulan </li>
+     <li> API : GitHub API </li>
+     <li> UI Design : Figma </li>
+  </ul>
 
 ## Deskripsi
 <p>ProjeKuy merupakan situs yang menjadi perantara bagi mahasiswa untuk mencari
