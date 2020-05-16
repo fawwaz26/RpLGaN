@@ -71,7 +71,10 @@ klien menemukan partner untuk bekerja sama.</p>
 
 
 ## Activity Diagram
-//wkwkwk
+![Tugas Akhir_Basdat-AD-SignUp](https://user-images.githubusercontent.com/48622568/82130156-e6e70100-97f2-11ea-8692-6c336d27c330.jpg)
+
+
+![Tugas Akhir_Basdat-AD-SignIn](https://user-images.githubusercontent.com/48622568/82130152-e51d3d80-97f2-11ea-80be-79955e2e8a13.jpg)
 
 ## GanttChart
 ![wkwkwkwkwl](https://user-images.githubusercontent.com/48622568/82087851-1aeef300-971b-11ea-874b-78a797516310.JPG)
