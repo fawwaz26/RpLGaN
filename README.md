@@ -77,7 +77,10 @@ klien menemukan partner untuk bekerja sama.</p>
 ![wkwkwkwkwl](https://user-images.githubusercontent.com/48622568/82087851-1aeef300-971b-11ea-874b-78a797516310.JPG)
 
 
-## Entity Relationshit Diagram
-//loh?
+## Entity Relationship Diagram
+![Tugas Akhir_Basdat-Entity Relationship Diagram](https://user-images.githubusercontent.com/48622568/82113208-84ecb400-977e-11ea-9d34-59dbfdec35ed.jpg)
+
+
+![Tugas Akhir_Basdat-EER Mode](https://user-images.githubusercontent.com/48622568/82113196-61c20480-977e-11ea-89c1-2e7a2e6bdf8f.jpg)
 
 ## Hasil Implementasu
