@@ -71,19 +71,34 @@ klien menemukan partner untuk bekerja sama.</p>
 
 
 ## Activity Diagram
-![Tugas Akhir_Basdat-AD-SignUp](https://user-images.githubusercontent.com/48622568/82130156-e6e70100-97f2-11ea-8692-6c336d27c330.jpg)
+![Tugas Akhir_Basdat-AD-Apply Projek](https://user-images.githubusercontent.com/48622568/82134123-72c25280-981e-11ea-9dcb-b51d63dd60bc.jpg)
 
 
-![Tugas Akhir_Basdat-AD-SignIn](https://user-images.githubusercontent.com/48622568/82130152-e51d3d80-97f2-11ea-80be-79955e2e8a13.jpg)
+![Tugas Akhir_Basdat-AD-Melihat Informasi Partner](https://user-images.githubusercontent.com/48622568/82134125-748c1600-981e-11ea-9beb-241da3679296.jpg)
+
+
+![Tugas Akhir_Basdat-AD-Melihat Informasi Projekan](https://user-images.githubusercontent.com/48622568/82134126-7524ac80-981e-11ea-988f-3e6b173b9ddc.jpg)
+
+
+![Tugas Akhir_Basdat-AD-Menerima Partner](https://user-images.githubusercontent.com/48622568/82134127-7524ac80-981e-11ea-94d3-d93146193edb.jpg)
+
+
+![Tugas Akhir_Basdat-AD-PostProjek](https://user-images.githubusercontent.com/48622568/82134128-75bd4300-981e-11ea-9640-2791cc76435a.jpg)
+
+
+![Tugas Akhir_Basdat-AD-SignIn](https://user-images.githubusercontent.com/48622568/82134129-7655d980-981e-11ea-8c20-03c0c8a9c26a.jpg)
+
+
+![Tugas Akhir_Basdat-AD-SignUp](https://user-images.githubusercontent.com/48622568/82134130-76ee7000-981e-11ea-81b3-6eb7859ee944.jpg)
 
 ## GanttChart
 ![wkwkwkwkwl](https://user-images.githubusercontent.com/48622568/82087851-1aeef300-971b-11ea-874b-78a797516310.JPG)
 
 
 ## Entity Relationship Diagram
-![Tugas Akhir_Basdat-Entity Relationship Diagram](https://user-images.githubusercontent.com/48622568/82113208-84ecb400-977e-11ea-9d34-59dbfdec35ed.jpg)
+![Tugas Akhir_Basdat-Entity Relationship Diagram](https://user-images.githubusercontent.com/48622568/82134107-3abb0f80-981e-11ea-92fe-780abc9b4d0a.jpg)
 
 
-![Tugas Akhir_Basdat-EER Mode](https://user-images.githubusercontent.com/48622568/82113196-61c20480-977e-11ea-89c1-2e7a2e6bdf8f.jpg)
+![Tugas Akhir_Basdat-EER Mode](https://user-images.githubusercontent.com/48622568/82134106-38f14c00-981e-11ea-884b-dec31088510a.jpg)
 
 ## Hasil Implementasu
