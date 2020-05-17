@@ -32,10 +32,11 @@ yang dibutuhkan.</p>
 ## Ruang Lingkup
 Perangkat keras:
   <ul>
-    <li> Prosesor : ? </li>
-    <li> Memori : ? </li>
-    <li> Graphic card : ? </li>
-    <li> Storage : </li>
+    <li> Prosesor : 2.0 Ghz processor </li>
+    <li> Memori : 2 GB minumum, 4 GB recommended </li>
+    <li> screen resolution : 800x600 atau diatasnya  </li>
+    <li> Storage : diatas 100 Mb </li>
+    <li> internet access : dibutuhkan </li>
   </ul>
 Perangkat lunak:
   <ul>
@@ -58,10 +59,13 @@ membutuhkan kerjasama dengan pihak lain. Dengan adanya ini diharapkan bisa membu
 klien menemukan partner untuk bekerja sama.</p>
 
 ## Analisis User
-<p>ini apa ya?</p>
+<p>target aplikasi kita adalah mahasiswa yang kesulitan dalam mencari partner untuk sebuah projekan, lomba, star-up, atau kepentingan lainnya. kebanyakan mahasiswa bingung untuk mencari partner yang sesuai keinginnnya agar bisa mencapai tujuan dan hasil yang memuaskan. </p>
 
 ## User Story
-<p>cerita pengguna</p>
+<ul>
+  <li>sebagai seorang mahasiswa, saya ingin mencari partner projekan lebih mudahh dan tanpa harus berinteraksi secara langsung </li>
+  <li>sebagai seorang mahasiswa, saya ingin memiliki partner projekan sesuai kebutuhan yang pasti sesuai skillnya. </li>
+</ul>
 
 ## User Case diagram
 //pake gambar
@@ -101,4 +105,4 @@ klien menemukan partner untuk bekerja sama.</p>
 
 ![Tugas Akhir_Basdat-EER Mode](https://user-images.githubusercontent.com/48622568/82134106-38f14c00-981e-11ea-884b-dec31088510a.jpg)
 
-## Hasil Implementasu
+## Hasil Implementasi
