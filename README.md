@@ -40,7 +40,6 @@ Perangkat keras:
   </ul>
 Perangkat lunak:
   <ul>
-    <li> Framework/Stack : ?</li>
     <li> Database : MySQL </li>
     <li> Server : Apache </li>
     <li> Text Editor/IDE : Visual Studio </li>
