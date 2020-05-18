@@ -122,10 +122,10 @@ klien menemukan partner untuk bekerja sama.</p>
 ![Tugas Akhir_Basdat-EER Mode](https://user-images.githubusercontent.com/48622568/82134106-38f14c00-981e-11ea-884b-dec31088510a.jpg)
 
 ## Hasil Implementasi
-![Screenshot (120)](https://user-images.githubusercontent.com/48622568/82166378-7b7c5c80-98e2-11ea-9a6c-26c4a5e19c79.png)
+![Screenshot (136)](https://user-images.githubusercontent.com/48622568/82167928-7a99f980-98e7-11ea-9148-3cfff56415c1.png)
 
 
-![Screenshot (121)](https://user-images.githubusercontent.com/48622568/82166382-7d462000-98e2-11ea-9a98-9a918d4fa80e.png)
+![Screenshot (137)](https://user-images.githubusercontent.com/48622568/82167932-7e2d8080-98e7-11ea-8035-5734afc4a492.png)
 
 
 ![Screenshot (122)](https://user-images.githubusercontent.com/48622568/82166385-7e774d00-98e2-11ea-9aed-bc68b9509b8d.png)
@@ -158,8 +158,7 @@ klien menemukan partner untuk bekerja sama.</p>
 ![Screenshot (131)](https://user-images.githubusercontent.com/48622568/82166417-8d5dff80-98e2-11ea-978c-9f7eba41be60.png)
 
 
-![Screenshot (132)](https://user-images.githubusercontent.com/48622568/82166418-8e8f2c80-98e2-11ea-8834-6f14264a6a52.png)
+![Screenshot (135)](https://user-images.githubusercontent.com/48622568/82167851-40305c80-98e7-11ea-947f-06291340c3dd.png)
 
 
-![Screenshot (133)](https://user-images.githubusercontent.com/48622568/82166433-9bac1b80-98e2-11ea-9bda-86e99475cba5.png)
-
+![Screenshot (134)](https://user-images.githubusercontent.com/48622568/82167716-dadc6b80-98e6-11ea-82b7-c09711719dd7.png)
