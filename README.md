@@ -149,9 +149,6 @@ klien menemukan partner untuk bekerja sama.</p>
 ![Screenshot (128)](https://user-images.githubusercontent.com/48622568/82166408-87681e80-98e2-11ea-86f1-ff14fc6d29c5.png)
 
 
-![Screenshot (129)](https://user-images.githubusercontent.com/48622568/82166411-8931e200-98e2-11ea-8098-3205d2adeac4.png)
-
-
 ![Screenshot (130)](https://user-images.githubusercontent.com/48622568/82166413-8afba580-98e2-11ea-86c5-b106dcc78f00.png)
 
 
